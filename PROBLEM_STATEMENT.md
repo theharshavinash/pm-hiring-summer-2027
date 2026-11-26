@@ -26,7 +26,7 @@ unreliable. You decide what is in a first version and what is out.
 
 ## Deliverable
 
-A short write-up (aim for 2-3 pages) containing:
+A short write-up (aim for 1 pager) containing:
 
 - The problem you chose, and why you chose it over the alternatives you considered
 - The success metric, and how it would be computed from this data
